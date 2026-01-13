@@ -6,7 +6,7 @@ export default function ClubsPage() {
           Running Clubs in Berlin
         </h1>
         <p className="text-xl text-gray-600 mb-12">
-          Discover and connect with Berlin's vibrant running community
+          Discover and connect with Berlin&apos;s vibrant running community
         </p>
       </div>
 
@@ -28,7 +28,7 @@ export default function ClubsPage() {
           Club directory coming soon
         </h3>
         <p className="mt-2 text-sm text-gray-500 max-w-md mx-auto">
-          We're building a comprehensive directory of running clubs across all Berlin neighborhoods.
+          We&apos;re building a comprehensive directory of running clubs across all Berlin neighborhoods.
           Check back soon to discover your perfect running crew!
         </p>
         <div className="mt-6">
